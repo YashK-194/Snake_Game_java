@@ -14,7 +14,7 @@ This is a simple Snake game written in Java. It was created as a learning projec
 2. **Clone the Repository:** If you have Git installed, you can clone this repository using the following command:
 
    ```bash
-   git clone https://<your_github_username>@github.com/<your_username>/java-snake-game.git
+   git clone https://github.com/YashK-194/Snake_Game_java.git
    ```
 
    Replace `<your_github_username>` and `<your_username>` with your actual GitHub username.
